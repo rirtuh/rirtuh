@@ -1,19 +1,16 @@
-# Hey, I'm Ramo
+<p align="center">
+  <img src="[GIF_LINK](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQyYXN3Y2oxamV3a2poYms1czNrd2VyaHYyZWE0dDB5d2t1MXF0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Vb4FWqXtjP3y/giphy.gif)" width="700">
+</p>
 
-### Computer Science Student • Developer • Cybersecurity Enthusiast
+<h1 align="center">Hey, I'm Ramo</h1>
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   R A M O                                                  │
-│   Computer Science Student                                 │
-│                                                            │
-│   Building • Learning • Breaking • Creating                │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+<h3 align="center">
+  Computer Science Student • Developer • Cybersecurity Enthusiast
+</h3>
 
-## About Me
+<p align="center">
+  Building • Learning • Breaking • Creating
+</p>
 
 I'm a Computer Science student who enjoys building things, exploring cybersecurity, and learning how systems work under the hood.
 
@@ -105,7 +102,7 @@ Experimenting with AI-powered browser extensions and automation.
 
 <p align="center">
 
-<a href="https://github.com/ramo">
+<a href="https://github.com/rirtuh">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
