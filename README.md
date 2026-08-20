@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQyYXN3Y2oxamV3a2poYms1czNrd2VyaHYyZWE0dDB5d2t1MXF0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Vb4FWqXtjP3y/giphy.gif" width="200">
+  <img src="https://i.giphy.com/PQkCUxSAwZo3QWH6Pz.webp" width="200">
 </p>
 
 <h1 align="center">Hey, I'm Ramo</h1>
