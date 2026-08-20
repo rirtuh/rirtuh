@@ -12,6 +12,22 @@
   Building • Learning • Breaking • Creating
 </p>
 
+<p align="center">
+  <a href="https://github.com/rirtuh">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ramal-ismayilov1221/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/r0x61/">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+---
+
+## About Me
+
 I'm a Computer Science student who enjoys building things, exploring cybersecurity, and learning how systems work under the hood.
 
 * Currently learning **Cybersecurity & Networking**
@@ -24,9 +40,7 @@ I'm a Computer Science student who enjoys building things, exploring cybersecuri
 ## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,linux,kali,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,linux,kali,vscode" />
 </p>
 
 ---
@@ -81,19 +95,81 @@ Experimenting with AI-powered browser extensions and automation.
 
 ---
 
-## GitHub Stats
+## What I'm Building
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramo&show_icons=true&hide_border=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramo&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,linux,git,github" />
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="250">
+
+### Security
+
+Web Security
+Pentesting
+CTF
+OSINT
+
+</td>
+
+<td align="center" width="250">
+
+### Development
+
+Python
+C++
+JavaScript
+Automation
+
+</td>
+
+<td align="center" width="250">
+
+### Systems
+
+Linux
+Networking
+Git
+GitHub
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/rirtuh">
+  <img src="https://img.shields.io/badge/Cybersecurity-Projects-111111?style=for-the-badge&logo=kalilinux&logoColor=white">
+</a>
+
+<a href="https://github.com/rirtuh">
+  <img src="https://img.shields.io/badge/Python-Projects-111111?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://github.com/rirtuh">
+  <img src="https://img.shields.io/badge/Web-Development-111111?style=for-the-badge&logo=javascript&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-## Contribution Graph
+## Current Mission
+
+```text
+Learn → Build → Break → Understand → Improve
+```
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramo&hide_border=true&area=true" />
+  <i>Turning curiosity into code.</i>
 </p>
 
 ---
@@ -103,7 +179,15 @@ Experimenting with AI-powered browser extensions and automation.
 <p align="center">
 
 <a href="https://github.com/rirtuh">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/ramal-ismayilov1221/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/r0x61/">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </p>
