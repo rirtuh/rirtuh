@@ -48,7 +48,6 @@ I enjoy understanding how systems work, building useful tools, experimenting wit
 
 ---
 
-## Areas of Interest
 
 ## Areas of Interest
 
