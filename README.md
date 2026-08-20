@@ -50,6 +50,8 @@ I enjoy understanding how systems work, building useful tools, experimenting wit
 
 ## Areas of Interest
 
+## Areas of Interest
+
 <table align="center">
   <tr>
     <td align="center" width="250">
@@ -60,29 +62,25 @@ I enjoy understanding how systems work, building useful tools, experimenting wit
       CTF<br>
       OSINT
     </td>
-
-```
-<td align="center" width="250">
-  <h3>Development</h3>
-  Python<br>
-  C++<br>
-  JavaScript<br>
-  Automation<br>
-  APIs
-</td>
-
-<td align="center" width="250">
-  <h3>Systems</h3>
-  Linux<br>
-  Networking<br>
-  TCP/IP<br>
-  System Security<br>
-  Git
-</td>
-```
-
+    <td align="center" width="250">
+      <h3>Development</h3>
+      Python<br>
+      C++<br>
+      JavaScript<br>
+      Automation<br>
+      APIs
+    </td>
+    <td align="center" width="250">
+      <h3>Systems</h3>
+      Linux<br>
+      Networking<br>
+      TCP/IP<br>
+      System Security<br>
+      Git
+    </td>
   </tr>
 </table>
+
 
 ---
 
@@ -98,6 +96,8 @@ I enjoy understanding how systems work, building useful tools, experimenting wit
 
 ---
 
+
+
 ## Projects
 
 <table align="center">
@@ -107,20 +107,15 @@ I enjoy understanding how systems work, building useful tools, experimenting wit
       Exploring vulnerabilities, penetration testing methodologies,
       CTFs and security tooling.
     </td>
-
-```
-<td align="center" width="280">
-  <h3>Telegram Bots</h3>
-  Building Telegram automation and bot systems using Python.
-</td>
-
-<td align="center" width="280">
-  <h3>AI & Browser Tools</h3>
-  Experimenting with AI-powered browser extensions,
-  automation and developer tools.
-</td>
-```
-
+    <td align="center" width="280">
+      <h3>Telegram Bots</h3>
+      Building Telegram automation and bot systems using Python.
+    </td>
+    <td align="center" width="280">
+      <h3>AI & Browser Tools</h3>
+      Experimenting with AI-powered browser extensions,
+      automation and developer tools.
+    </td>
   </tr>
 </table>
 
