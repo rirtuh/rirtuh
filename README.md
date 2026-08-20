@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[GIF_LINK](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQyYXN3Y2oxamV3a2poYms1czNrd2VyaHYyZWE0dDB5d2t1MXF0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Vb4FWqXtjP3y/giphy.gif)" width="700">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQyYXN3Y2oxamV3a2poYms1czNrd2VyaHYyZWE0dDB5d2t1MXF0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Vb4FWqXtjP3y/giphy.gif" width="700">
 </p>
 
 <h1 align="center">Hey, I'm Ramo</h1>
