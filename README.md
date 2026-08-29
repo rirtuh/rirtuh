@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Building • Learning • Breaking • Creating
+  Building • Learning • Securing • Creating
 </p>
 
 <p align="center">
