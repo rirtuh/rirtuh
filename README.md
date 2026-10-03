@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Ramo</h1>
 
 <p align="center">
-  <strong>Computer Science Student • Developer • Cybersecurity Enthusiast</strong>
+  <strong>Computer Science Student • Cybersecurity Enthusiast</strong>
 </p>
 
 <p align="center">
